@@ -4,7 +4,7 @@ This repository contains all of the solutions for the **Python Basics** course t
 
 ---
 
-## 📋 Table of Contents
+# 📋 Table of Contents
 - [Introduction](#introduction)
 - [Repository Structure](#repository-structure)
 - [Technologies Used](#technologies-used)
@@ -12,7 +12,7 @@ This repository contains all of the solutions for the **Python Basics** course t
 
 ---
 
-## 🌟 Introduction
+# 🌟 Introduction
 
 I am a developer currently enrolled in the **Python** course at *SoftUni*. In this repository, you'll find my solutions to all of the tasks from the **Python Basics** module. Each task has been thoroughly solved and tested.
 
@@ -28,7 +28,7 @@ The tasks in this module are designed to provide a solid foundation in Python, c
 
 ---
 
-## 🗂 Repository Structure
+# 🗂 Repository Structure
 
 Each task has its own folder, and each folder contains:
 - The solution to the task as a Python file (`.py`).
@@ -44,7 +44,7 @@ Python-Basics-Solutions/
 ...
 ```
 
-## 📬 Contact
+# 📬 Contact
 
 If you have any questions or suggestions, feel free to reach out!
 - GitHub: [Zlatk0v](https://github.com/Zlatk0v/) 🧑‍💻
